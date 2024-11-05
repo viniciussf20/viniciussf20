@@ -6,7 +6,7 @@
 
 **STATS:**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussf20&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussf20&show_icons=true&theme=transparent)
 
 **LINGUAGENS DOMINANTES:**
 <div style="display: inline_block">
