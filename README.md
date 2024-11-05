@@ -2,10 +2,10 @@
 
 -Graduando em Eng Química ⚛ <br>
 -Téc. Dev. Sistemas 🖥️
+
 **STATS:**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussf20&show_icons=true&theme=transparent)     
-
 
 
 <div style="display: flex; align-items: right">
