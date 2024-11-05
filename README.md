@@ -3,7 +3,6 @@
 -Graduando em Eng Química ⚛ <br>
 -Téc. Dev. Sistemas 🖥️
 
-
 <div style="display: flex; align-items: right">
 <img align="right" height="100" widht="100" alt= "zenitsu" src="https://i.pinimg.com/originals/8c/45/a5/8c45a59c9a6239012787c3cbb50f6f24.gif">
 </div>   
