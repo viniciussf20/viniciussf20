@@ -3,14 +3,13 @@
 -Graduando em Eng Química ⚛ <br>
 -Téc. Dev. Sistemas 🖥️
 
+<div>
+<img height="150" widht="200" alt= "zenitsu" src="https://i.pinimg.com/originals/03/2f/76/032f7671ee8f77419464897cd5aa97f3.gif">
+</div> <br>   
+
 **STATS:**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussf20&show_icons=true&theme=transparent)     
-
-
-<div style="display: flex; align-items: right">
-<img align="right" height="100" widht="100" alt= "zenitsu" src="https://i.pinimg.com/originals/8c/45/a5/8c45a59c9a6239012787c3cbb50f6f24.gif">
-</div>   
 
 
 **LINGUAGENS DOMINANTES:**
