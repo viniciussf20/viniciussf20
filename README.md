@@ -8,9 +8,11 @@
 </div> <br>    
 
 **STATS:**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussf20&show_icons=true&theme=transparent)     
-
+<div>
+<a href="https://github.com/viniciussf20">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussf20&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciussf20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 
 **LINGUAGENS DOMINANTES:**
 <div style= "display: inline_block">
