@@ -2,7 +2,7 @@
 
 -Graduando em Eng Química ⚛ <br>
 -Téc. Dev. Sistemas 🖥️
-
+  ![Snake animation](https://github.com/viniciussf20/viniciussf20/blob/output/github-contribution-grid-snake.svg)
 <div>
 <img height="150" widht="200" alt= "zenitsu" src="https://i.pinimg.com/originals/03/2f/76/032f7671ee8f77419464897cd5aa97f3.gif">
 </div> <br>    
@@ -23,5 +23,5 @@
   <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
-  ![Snake animation](https://github.com/viniciussf20/viniciussf20/blob/output/github-contribution-grid-snake.svg)
+
 ##
